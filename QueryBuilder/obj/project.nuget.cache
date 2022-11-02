@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KQ2mypNBAB7nw3P/7Cl0i/DIEDvpMbtEebhpQ1YzqURhVtrqHs6VAgDOmFb/U/DV0jfqQdgu5et9Q7XTfAzF2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gallowayje\\OneDrive - East Tennessee State University\\QueryBuilder\\QueryBuilder\\QueryBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gallowayje\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
+    "C:\\Users\\gallowayje\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\gallowayje\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
